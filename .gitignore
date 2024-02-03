@@ -1,0 +1,11 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode
+.DS_Store
+*.sln
+*.xcworkspace
+.vs
+.vsconfig
